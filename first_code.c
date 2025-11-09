@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("hello_Git");
+    printf("Hello_git");
 }
